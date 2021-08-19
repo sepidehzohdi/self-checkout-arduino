@@ -12,10 +12,10 @@ HX711 is a module which is specially designed for measuring weight. It has two c
 - Arduino IDE
 
 ### library
-- The most complete library that I found is [github link] (https://github.com/sparkfun/HX711-Load-Cell-Amplifier)
+- The most complete library that I found is [github link](https://github.com/sparkfun/HX711-Load-Cell-Amplifier)
 
 ## set up
-1. For your scale to be ready follow step 1-3 of this [link] (https://www.instructables.com/Arduino-Scale-With-5kg-Load-Cell-and-HX711-Amplifi)
+1. For your scale to be ready follow step 1-3 of this [link](https://www.instructables.com/Arduino-Scale-With-5kg-Load-Cell-and-HX711-Amplifi)
 2. Calibrate it with following readme of calibrate
 3. Measuring weight with another code
 4. Enjoy it!
