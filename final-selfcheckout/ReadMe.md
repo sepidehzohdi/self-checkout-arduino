@@ -1,0 +1,3 @@
+# final
+I finally put all seperate codes in one code. In this code when the port between Arduino and Jetson opens, Arduino sends weight and status of color non-stop. In the **detect()** function , If detect red it returns 1 else sends 0.
+Then it recieves data from Jetson. We can change this part but for instance if We get 1 Led matrixes get red then turn off.Or when it recieves 2 it resets. This is because some times after a random time HX711 gets out of calibration so we need to restart it when everything begin.
